@@ -1,5 +1,5 @@
 # Writing the README content to a file
-readme_content = this is for a  """
+readme_content = this is for a case comp """
 # Project Name: Project 3
 
 ## Project Description
